@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a9459c3a09dfb88",
+            "id": "45adff1b45b29475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-APS/1. ISA a výkonnost.md",
+                "file": "BI-AG1/Přednášky/1. Základy grafů.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8cd118b525481c14",
+            "id": "101b0371e6244f7d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "818f424e935540ad",
@@ -151,19 +152,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cd118b525481c14",
+  "active": "101b0371e6244f7d",
   "lastOpenFiles": [
+    "BI-AG1/Algoritmy/BFS.md",
+    "BI-AG1/Přednášky/1. Základy grafů.md",
+    "Attachments/Pasted image 20231031115751.png",
+    "Attachments/Pasted image 20231031115327.png",
+    "Attachments/Pasted image 20231031115315.png",
+    "Attachments/Pasted image 20231031115302.png",
+    "Attachments/Pasted image 20231031100812.png",
+    "Attachments/Pasted image 20231031100328.png",
+    "Attachments/Pasted image 20231031100037.png",
+    "Attachments/Pasted image 20231031095145.png",
+    "Attachments/Pasted image 20231031095047.png",
+    "Attachments/Pasted image 20231031095040.png",
     "BI-APS/1. ISA a výkonnost.md",
-    "Attachments/Pasted image 20231030160247.png",
-    "Attachments/Pasted image 20231030160142.png",
-    "Attachments/Pasted image 20231030160107.png",
-    "Attachments/Pasted image 20231030155946.png",
-    "Attachments/Pasted image 20231030155707.png",
-    "Attachments/Pasted image 20231030153345.png",
-    "Attachments/Pasted image 20231030153244.png",
-    "Attachments/Pasted image 20231030152231.png",
-    "Attachments/Pasted image 20231029101645.png",
-    "Attachments/Pasted image 20231029101122.png",
+    "BI-AG1/Algoritmy",
+    "BI-AG1/Přednášky",
+    "BI-AG1",
     "Pasted image 20231028152657.png.md",
     "1. ISA a výkonost",
     "BI-APS",

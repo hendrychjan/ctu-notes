@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "Attachments",
-  "livePreview": false
+  "livePreview": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
