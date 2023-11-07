@@ -1,3 +1,8 @@
+---
+tags:
+- BI-AG1
+---
+
 **Breadth-First Search**
 
 ### Vstup
@@ -38,3 +43,10 @@ Algoritmus BFS(graf G, vrchol s):
 ![](Attachments/Pasted%20image%2020231031092811.png)
 ![](Attachments/Pasted%20image%2020231031092824.png)
 ![](Attachments/Pasted%20image%2020231031092833.png)
+
+### Časová složitost
+> Algoritmus $BFS(G,s)$ má při reprezentaci grafu $G$ časovou složitost $O(|V|+|E|)$
+
+![](Attachments/Pasted%20image%2020231107082045.png)
+
+![](Attachments/Pasted%20image%2020231107082056.png)
