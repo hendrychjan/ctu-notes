@@ -16,31 +16,31 @@
             }
           },
           {
-            "id": "318182cf2c0deacc",
+            "id": "1bdc08732889df38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-AG1/Algoritmy/BFS.md",
+                "file": "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1bdc08732889df38",
+            "id": "fda29dfa3aac0c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "818f424e935540ad",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md",
+                "file": "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md",
+                "file": "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md"
+                "file": "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md"
               }
             }
           }
@@ -170,20 +169,25 @@
   },
   "active": "1bdc08732889df38",
   "lastOpenFiles": [
-    "BI-AG1/Algoritmy/BFS.md",
-    "Attachments/Pasted image 20231107082056.png",
-    "Attachments/Pasted image 20231107082045.png",
-    "BI-AG1/Přednášky/1. Základy grafů.md",
     "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md",
+    "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md",
+    "BI-AG1/Algoritmy/BubbleSort.md",
+    "Attachments/Pasted image 20231107182201.png",
+    "Attachments/Pasted image 20231107182116.png",
+    "BI-AG1/Algoritmy/BFS.md",
+    "BI-AG1/Algoritmy/SelectSort.md",
+    "Attachments/Pasted image 20231107182034.png",
+    "BI-AG1/Algoritmy/InsertSort.md",
+    "BI-AG1/Algoritmy/TopSort.md",
+    "Attachments/Pasted image 20231107180012.png",
+    "Attachments/Pasted image 20231107175831.png",
+    "Attachments/Pasted image 20231107175822.png",
+    "Attachments/Pasted image 20231107175815.png",
+    "Attachments/Pasted image 20231107175750.png",
+    "Attachments/Pasted image 20231107173632.png",
+    "Attachments/Pasted image 20231107170750.png",
+    "BI-AG1/Přednášky/1. Základy grafů.md",
     "BI-AAG/Přednášky/4. Regulární výrazy.md",
-    "Attachments/Pasted image 20231107080656.png",
-    "Attachments/Pasted image 20231107080156.png",
-    "Attachments/Pasted image 20231107080055.png",
-    "Attachments/Pasted image 20231107075501.png",
-    "Attachments/Pasted image 20231106155628.png",
-    "Attachments/Pasted image 20231106155512.png",
-    "Attachments/Pasted image 20231106155341.png",
-    "Attachments/Pasted image 20231106154733.png",
     "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
     "BI-APS/1. ISA a výkonnost.md",
     "BI-AAG/Přednášky/1. Základní pojmy.md",
