@@ -1,15 +1,20 @@
 ---
 tags:
 - BI-AG1
+- Completed
 ---
 
 **Topologial sort**
 
-### Vstup
-- orientovaný graf $G$
+> ###### Časová složitost
+> $O(|V|+|E|)$
+> ###### Paměťová složitost
+> $O(|V|+|E|)$
+> ###### Vstup
+> - orientovaný graf $G$
+> ###### Výstup
+> - nějaké topologické uspořádání $G$, pokud byl acyklický, a detekce cykličnosti v opačném případě
 
-### Výstup
-- nějaké topologické uspořádání $G$, pokud byl acyklický, a detekce cykličnosti v opačném případě
 
 ### Idea
 - průběžně:
@@ -20,13 +25,3 @@ tags:
 
 ### Implementace
 ![](Attachments/Pasted%20image%2020231107173632.png)
-
-### Důkaz správnosti
-![](Attachments/Pasted%20image%2020231107175815.png)
-![](Attachments/Pasted%20image%2020231107175822.png)
-![](Attachments/Pasted%20image%2020231107175831.png)
-
-### Časová složitost
-> Algoritmus `TopSort(G)`, kde $G=(V,E)$ je orientovaný graf reprezentovaný pomocí pole následníků, má časovou i paměťovou složitost $O(|V|+|E|)$
-
-![](Attachments/Pasted%20image%2020231107180012.png)

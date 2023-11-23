@@ -1,6 +1,7 @@
 ---
 tags:
 - BI-AG1
+- Completed
 ---
 
 > **časová složitost:** $O(n^2)$

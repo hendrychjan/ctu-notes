@@ -1,18 +1,20 @@
 ---
 tags:
 - BI-AG1
+- Completed
 ---
 
 **Breadth-First Search**
 
-### Vstup
-- neorientovaný graf $G = (V, E)$ a vrchol $s \in V$
-
-### Výstup
-- pole vzdáleností $D$ takové, že:
-	- ![](Attachments/Pasted%20image%2020231031091859.png)
-- pole předchůdců $P$ takové, že:
-	- ![](Attachments/Pasted%20image%2020231031091917.png)
+> ###### Časová složitost
+> $O(|V|+|E|)$
+> ###### Vstup
+> - neorientovaný graf $G = (V, E)$ a vrchol $s \in V$
+> ###### Výstup
+> - pole vzdáleností $D$ takové, že:
+>	![](Attachments/Pasted%20image%2020231031091859.png)
+>- pole předchůdců $P$ takové, že:
+>	![](Attachments/Pasted%20image%2020231031091917.png)
 
 ### Implementace
 ```
@@ -34,19 +36,3 @@ Algoritmus BFS(graf G, vrchol s):
 		stav[v] := uzavřený
 	Vrať (D, P)
 ```
-
-### Důkaz konečnosti a správnosti
-
-### Důkaz z prezentace
-![](Attachments/Pasted%20image%2020231031092711.png)
-![](Attachments/Pasted%20image%2020231031092758.png)
-![](Attachments/Pasted%20image%2020231031092811.png)
-![](Attachments/Pasted%20image%2020231031092824.png)
-![](Attachments/Pasted%20image%2020231031092833.png)
-
-### Časová složitost
-> Algoritmus $BFS(G,s)$ má při reprezentaci grafu $G$ časovou složitost $O(|V|+|E|)$
-
-![](Attachments/Pasted%20image%2020231107082045.png)
-
-![](Attachments/Pasted%20image%2020231107082056.png)
