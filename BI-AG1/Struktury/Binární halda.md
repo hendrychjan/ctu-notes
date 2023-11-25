@@ -1,7 +1,8 @@
 ---
 tags:
-- BI-AG1
-- Completed
+  - BI-AG1
+  - Completed
+  - Anki
 ---
 
 # Rozhraní
@@ -9,9 +10,10 @@ tags:
 ## Funkce
 | Operace | Časová složitost | Popis |
 | ------------- | --------------------------- | --------- |
-| `HeapInsert(H,k)` | $O(log n)$ | vloží nový klíč *k* do haldy *H* |
+| `HeapInsert(H,k)` | $O(\log{n})$ | vloží nový klíč *k* do haldy *H* |
 | `HeapFindMin(H)` | $O(1)$ | Najde a vrátí minimum ze všech prvků na haldě *H* |
-| `HeapExtractMin(H)` | $O(log n)$ | Odstraní minimum z haldy *H* a vrátí ho |
+| `HeapExtractMin(H)` | $O(\log{n})$ | Odstraní minimum z haldy *H* a vrátí ho |
+| `HeapBuild()` | $O(\log{n})$ | Vytvoří binární haldu z pole in-place |
 
 ## Struktura
 ### Reprezentace jako graf
