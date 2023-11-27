@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
+                "file": "BI-AG1/Struktury/AVL Strom.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
+                "file": "BI-AG1/Struktury/AVL Strom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
+                "file": "BI-AG1/Struktury/AVL Strom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md"
+                "file": "BI-AG1/Struktury/AVL Strom.md"
               }
             }
           }
@@ -149,10 +149,15 @@
   },
   "active": "c416ee31559eef16",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231127103441.png",
+    "Attachments/Pasted image 20231127103404.png",
+    "Attachments/Pasted image 20231127103300.png",
+    "Attachments/Pasted image 20231127103239.png",
     "BI-AG1/Struktury/BVS Strom.md",
-    "BI-AG1/Struktury/AVL Strom.md",
-    "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
+    "BI-AG1/Přednášky/7. Úvod do randomizace a hešování.md",
     "BI-AG1/Přednášky/5. Binomiální halda.md",
+    "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
+    "BI-AG1/Struktury/AVL Strom.md",
     "Attachments/Pasted image 20231126121806.png",
     "Attachments/Pasted image 20231126121743.png",
     "Attachments/Pasted image 20231126121536.png",
@@ -161,9 +166,6 @@
     "BI-AG1/Struktury/Binární halda.md",
     "Attachments/Pasted image 20231126120934.png",
     "Attachments/Pasted image 20231126120811.png",
-    "Attachments/Pasted image 20231126120551.png",
-    "Attachments/Pasted image 20231126120444.png",
-    "Attachments/Pasted image 20231126120213.png",
     "BI-AG1/Struktury/Binomiální halda.md",
     "BI-AG1/Přednášky/4. Binární halda.md",
     "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md",
@@ -178,7 +180,6 @@
     "BI-AG1/Důkazy/Vlastnosti BFS.md",
     "BI-AG1/Důkazy",
     "2023-11-20.md",
-    "BI-AG1/Přednášky/7. Úvod do randomizace a hešování.md",
     "BI-AAG/Přednášky/4. Regulární výrazy.md",
     "BI-AG1/Struktury",
     "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",

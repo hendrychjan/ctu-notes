@@ -5,6 +5,20 @@ tags:
   - Anki
 ---
 
+# Rotace
+
+## L - rotace doleva
+![](Attachments/Pasted%20image%2020231127103300.png)
+
+## R - rotace doprava
+![](Attachments/Pasted%20image%2020231127103239.png)
+
+## LR - dvojitá rotace
+![](Attachments/Pasted%20image%2020231127103404.png)
+
+## RL - dvojitá rotace
+![](Attachments/Pasted%20image%2020231127103441.png)
+
 # Implementace `AVLInsert`
 - nový vrchol vložíme standardně jako list se znaménkem **0**
 - z prázdného podstromu hloubky 0 se tak stal jednovrcholový podstrom hloubky 1
