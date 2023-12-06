@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "90ab0f0face8c86a",
+        "id": "a5cd5bf93ab50c2c",
         "type": "tabs",
         "children": [
           {
-            "id": "3528f3a501dfe643",
+            "id": "3a1b7a2634b74a9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "818f424e935540ad",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,24 +139,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3528f3a501dfe643",
+  "active": "3a1b7a2634b74a9a",
   "lastOpenFiles": [
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA pomocí epsilon-přechodů.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA bez použití epsilon-přechodů.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí rekonfigurace počátečních stavů.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí paralelní činnosti.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí epsilon přechodů.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Průnik KA pomocí paralelní činnosti.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Iterace KA pomocí epsilon-přechodů.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Iterace KA bez použití epsilon-přechodů.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA/Doplněk KA.md",
+    "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Minimalizace DKA.md",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Determinizace NKA.md",
+    "Attachments/Pasted image 20231206235456.png",
+    "Attachments/Pasted image 20231206235307.png",
+    "Attachments/Pasted image 20231206234840.png",
+    "Attachments/Pasted image 20231206234724.png",
+    "Attachments/Pasted image 20231206234440.png",
+    "Attachments/Pasted image 20231206234423.png",
+    "Attachments/Pasted image 20231206234324.png",
+    "Attachments/Pasted image 20231206234158.png",
+    "Attachments/Pasted image 20231206233503.png",
+    "Attachments/Pasted image 20231206233439.png",
+    "BI-AAG/Algoritmy/Převod NKA na DKA.md",
+    "BI-AAG/Algoritmy/Jazykové operace nad KA",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty/Nalezení a odstranění nedosažitelných stavů.md",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty/Odstranění epsilon přechodů.md",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty/Odstranění více počátečních stavů.md",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty/Nalezení a odstranění zbytečných stavů.md",
     "BI-AAG/Přednášky/2. Deterministické a nedeterministické konečné automaty.md",
-    "Attachments/Pasted image 20231206212103.png",
-    "Attachments/Pasted image 20231206212051.png",
-    "Attachments/Pasted image 20231206212022.png",
-    "Attachments/Pasted image 20231206211102.png",
-    "Attachments/Pasted image 20231206211016.png",
-    "Attachments/Pasted image 20231206211009.png",
-    "Attachments/Pasted image 20231206210924.png",
-    "Attachments/Pasted image 20231206210616.png",
-    "Attachments/Pasted image 20231206210402.png",
-    "Attachments/Pasted image 20231206205729.png",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
@@ -176,25 +181,11 @@
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro sjednocení bezkontextových jazyků.md",
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky",
     "BI-AAG/Přednášky/4. Regulární výrazy.md",
-    "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
     "BI-AG1/Struktury/Binární halda.md",
-    "BI-AG1/Algoritmy/BFS.md",
-    "BI-AG1/Struktury/AVL Strom.md",
-    "BI-AG1/Struktury/BVS Strom.md",
-    "BI-AG1/Přednášky/7. Úvod do randomizace a hešování.md",
-    "BI-AG1/Přednášky/5. Binomiální halda.md",
-    "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
-    "BI-AG1/Struktury/Binomiální halda.md",
-    "BI-AG1/Přednášky/4. Binární halda.md",
-    "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md",
-    "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md",
-    "BI-AG1/Přednášky/1. Základy grafů.md",
-    "BI-AG1/Algoritmy/TopSort.md",
     "BI-AG1/Důkazy",
     "BI-AG1/Struktury",
     "BI-AAG/Algoritmy",
     "BI-AAG/Přednášky",
-    "BI-AAG",
-    "BI-AG1/Algoritmy"
+    "BI-AAG"
   ]
 }
