@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "05e9bb327c7b261d",
+        "id": "90ab0f0face8c86a",
         "type": "tabs",
         "children": [
           {
-            "id": "c416ee31559eef16",
+            "id": "3528f3a501dfe643",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
-                "viewState": {
-                  "x": 705,
-                  "y": 452,
-                  "zoom": -0.03732963075004168
-                }
+                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "818f424e935540ad",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
+                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
+                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas"
+                "file": "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md"
               }
             }
           }
@@ -150,28 +148,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7b9d6a55ef9c689",
+  "active": "3528f3a501dfe643",
   "lastOpenFiles": [
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Nalezení a odstranění nedosažitelných stavů.md",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Odstranění epsilon přechodů.md",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Odstranění více počátečních stavů.md",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Nalezení a odstranění zbytečných stavů.md",
+    "BI-AAG/Přednášky/2. Deterministické a nedeterministické konečné automaty.md",
+    "Attachments/Pasted image 20231206212103.png",
+    "Attachments/Pasted image 20231206212051.png",
+    "Attachments/Pasted image 20231206212022.png",
+    "Attachments/Pasted image 20231206211102.png",
+    "Attachments/Pasted image 20231206211016.png",
+    "Attachments/Pasted image 20231206211009.png",
+    "Attachments/Pasted image 20231206210924.png",
+    "Attachments/Pasted image 20231206210616.png",
+    "Attachments/Pasted image 20231206210402.png",
+    "Attachments/Pasted image 20231206205729.png",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
+    "BI-AAG/Algoritmy/Operace nad konečnými automaty",
+    "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
     "BI-APS/Semestrální práce",
     "BI-AAG/Přednášky/1. Základní pojmy.md",
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro iteraci bezkontextového jazyka.md",
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro součin bezkontextových jazyků.md",
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro sjednocení bezkontextových jazyků.md",
-    "Attachments/Pasted image 20231206125226.png",
-    "Attachments/Pasted image 20231206125157.png",
-    "Attachments/Pasted image 20231206125004.png",
-    "Attachments/Pasted image 20231206124647.png",
-    "Attachments/Pasted image 20231206124643.png",
-    "Attachments/Pasted image 20231206124415.png",
-    "Attachments/Pasted image 20231206123855.png",
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky",
-    "Attachments/Pasted image 20231206123250.png",
-    "Attachments/Pasted image 20231206123056.png",
-    "Attachments/Pasted image 20231206122833.png",
     "BI-AAG/Přednášky/4. Regulární výrazy.md",
     "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
-    "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
     "BI-AG1/Struktury/Binární halda.md",
     "BI-AG1/Algoritmy/BFS.md",
     "BI-AG1/Struktury/AVL Strom.md",
@@ -185,19 +190,11 @@
     "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md",
     "BI-AG1/Přednášky/1. Základy grafů.md",
     "BI-AG1/Algoritmy/TopSort.md",
-    "BI-AG1/Algoritmy/SelectSort.md",
-    "BI-AG1/Algoritmy/InsertSort.md",
-    "BI-AG1/Algoritmy/BubbleSort.md",
-    "BI-AG1/Důkazy/Vlastnosti BFS.md",
     "BI-AG1/Důkazy",
-    "2023-11-20.md",
     "BI-AG1/Struktury",
-    "BI-APS/1. ISA a výkonnost.md",
     "BI-AAG/Algoritmy",
     "BI-AAG/Přednášky",
     "BI-AAG",
-    "BI-AG1/Algoritmy",
-    "BI-AG1/Přednášky",
-    "BI-AG1"
+    "BI-AG1/Algoritmy"
   ]
 }
