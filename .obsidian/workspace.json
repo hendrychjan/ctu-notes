@@ -11,11 +11,14 @@
             "id": "c416ee31559eef16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "BI-AG1/Struktury/AVL Strom.md",
-                "mode": "preview",
-                "source": true
+                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
+                "viewState": {
+                  "x": 705,
+                  "y": 452,
+                  "zoom": -0.03732963075004168
+                }
               }
             }
           }
@@ -69,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 353.5
   },
   "right": {
     "id": "818f424e935540ad",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-AG1/Struktury/AVL Strom.md",
+                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-AG1/Struktury/AVL Strom.md",
+                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-AG1/Struktury/AVL Strom.md"
+                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas"
               }
             }
           }
@@ -147,31 +150,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c416ee31559eef16",
+  "active": "a7b9d6a55ef9c689",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20231127103441.png",
-    "Attachments/Pasted image 20231127103404.png",
-    "Attachments/Pasted image 20231127103300.png",
-    "Attachments/Pasted image 20231127103239.png",
+    "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
+    "BI-APS/Semestrální práce",
+    "BI-AAG/Přednášky/1. Základní pojmy.md",
+    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro iteraci bezkontextového jazyka.md",
+    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro součin bezkontextových jazyků.md",
+    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro sjednocení bezkontextových jazyků.md",
+    "Attachments/Pasted image 20231206125226.png",
+    "Attachments/Pasted image 20231206125157.png",
+    "Attachments/Pasted image 20231206125004.png",
+    "Attachments/Pasted image 20231206124647.png",
+    "Attachments/Pasted image 20231206124643.png",
+    "Attachments/Pasted image 20231206124415.png",
+    "Attachments/Pasted image 20231206123855.png",
+    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky",
+    "Attachments/Pasted image 20231206123250.png",
+    "Attachments/Pasted image 20231206123056.png",
+    "Attachments/Pasted image 20231206122833.png",
+    "BI-AAG/Přednášky/4. Regulární výrazy.md",
+    "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
+    "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
+    "BI-AG1/Struktury/Binární halda.md",
+    "BI-AG1/Algoritmy/BFS.md",
+    "BI-AG1/Struktury/AVL Strom.md",
     "BI-AG1/Struktury/BVS Strom.md",
     "BI-AG1/Přednášky/7. Úvod do randomizace a hešování.md",
     "BI-AG1/Přednášky/5. Binomiální halda.md",
     "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
-    "BI-AG1/Struktury/AVL Strom.md",
-    "Attachments/Pasted image 20231126121806.png",
-    "Attachments/Pasted image 20231126121743.png",
-    "Attachments/Pasted image 20231126121536.png",
-    "Attachments/Pasted image 20231126121444.png",
-    "Attachments/Pasted image 20231126121150.png",
-    "BI-AG1/Struktury/Binární halda.md",
-    "Attachments/Pasted image 20231126120934.png",
-    "Attachments/Pasted image 20231126120811.png",
     "BI-AG1/Struktury/Binomiální halda.md",
     "BI-AG1/Přednášky/4. Binární halda.md",
     "BI-AG1/Přednášky/3. Stromy, kostry, topologické řazení.md",
-    "BI-AAG/Přednášky/1. Základní pojmy.md",
     "BI-AG1/Přednášky/2. Souvislost, složitost, stromy.md",
-    "BI-AG1/Algoritmy/BFS.md",
     "BI-AG1/Přednášky/1. Základy grafů.md",
     "BI-AG1/Algoritmy/TopSort.md",
     "BI-AG1/Algoritmy/SelectSort.md",
@@ -180,20 +191,13 @@
     "BI-AG1/Důkazy/Vlastnosti BFS.md",
     "BI-AG1/Důkazy",
     "2023-11-20.md",
-    "BI-AAG/Přednášky/4. Regulární výrazy.md",
     "BI-AG1/Struktury",
-    "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
     "BI-APS/1. ISA a výkonnost.md",
-    "BI-AAG/Algoritmy/Převod NKA na DKA.md",
     "BI-AAG/Algoritmy",
-    "2023-11-04.md",
     "BI-AAG/Přednášky",
-    "BI-AAG/Untitled.md",
     "BI-AAG",
     "BI-AG1/Algoritmy",
     "BI-AG1/Přednášky",
-    "BI-AG1",
-    "1. ISA a výkonost",
-    "BI-APS"
+    "BI-AG1"
   ]
 }
