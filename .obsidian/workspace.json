@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a1b7a2634b74a9a",
+            "id": "e8e27c52459b40b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b09513e6003f6b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na RG metodou postupné konstrukce.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md"
+              }
             }
           }
         ],
@@ -139,8 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a1b7a2634b74a9a",
+  "active": "e8e27c52459b40b8",
   "lastOpenFiles": [
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na RG metodou postupné konstrukce.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA nebo RG metodou derivací.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA metodou sousedů.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA metodou postupné konstrukce.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RG na RV metodou regulárních rovnic.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RG na RV metodou eliminace neterminálních symbolů.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RG na KA.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou regulárních rovnic - příchozí přechody.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou regulárních rovnic - odchozí přechody.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou eliminace stavů.md",
+    "Attachments/Pasted image 20231207140641.png",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RG.md",
+    "Attachments/Pasted image 20231207140535.png",
+    "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
+    "BI-AAG/Přednášky/4. Regulární výrazy.md",
+    "BI-AAG/Přednášky/1. Základní pojmy.md",
+    "Attachments/Pasted image 20231207131624.png",
+    "Attachments/Pasted image 20231207131234.png",
+    "Attachments/Pasted image 20231207125507.png",
+    "Attachments/Pasted image 20231207124656.png",
+    "Attachments/Pasted image 20231207124203.png",
+    "Attachments/Pasted image 20231207123818.png",
+    "Attachments/Pasted image 20231207123236.png",
+    "Attachments/Pasted image 20231207122750.png",
+    "RV na KA.md",
+    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA pomocí epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA bez použití epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí rekonfigurace počátečních stavů.md",
@@ -150,42 +196,16 @@
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Iterace KA pomocí epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Iterace KA bez použití epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Doplněk KA.md",
-    "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty/Minimalizace DKA.md",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Determinizace NKA.md",
-    "Attachments/Pasted image 20231206235456.png",
-    "Attachments/Pasted image 20231206235307.png",
-    "Attachments/Pasted image 20231206234840.png",
-    "Attachments/Pasted image 20231206234724.png",
-    "Attachments/Pasted image 20231206234440.png",
-    "Attachments/Pasted image 20231206234423.png",
-    "Attachments/Pasted image 20231206234324.png",
-    "Attachments/Pasted image 20231206234158.png",
-    "Attachments/Pasted image 20231206233503.png",
-    "Attachments/Pasted image 20231206233439.png",
-    "BI-AAG/Algoritmy/Převod NKA na DKA.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Doplnění KA na úplně určený.md",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Nalezení a odstranění nedosažitelných stavů.md",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Odstranění epsilon přechodů.md",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Odstranění více počátečních stavů.md",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Nalezení a odstranění zbytečných stavů.md",
-    "BI-AAG/Přednášky/2. Deterministické a nedeterministické konečné automaty.md",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
     "BI-APS/Semestrální práce",
-    "BI-AAG/Přednášky/1. Základní pojmy.md",
-    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro iteraci bezkontextového jazyka.md",
-    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro součin bezkontextových jazyků.md",
-    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro sjednocení bezkontextových jazyků.md",
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky",
-    "BI-AAG/Přednášky/4. Regulární výrazy.md",
-    "BI-AG1/Struktury/Binární halda.md",
     "BI-AG1/Důkazy",
     "BI-AG1/Struktury",
     "BI-AAG/Algoritmy",
-    "BI-AAG/Přednášky",
-    "BI-AAG"
+    "BI-AAG/Přednášky"
   ]
 }
