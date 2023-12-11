@@ -11,27 +11,31 @@
             "id": "e8e27c52459b40b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
-                "mode": "preview",
-                "source": true
+                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
+                "viewState": {
+                  "x": 1147.8219217700025,
+                  "y": 1005.1093086937792,
+                  "zoom": 0.39976072090210235
+                }
               }
             }
           },
           {
-            "id": "b09513e6003f6b6c",
+            "id": "da2f384c3ae962fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na RG metodou postupné konstrukce.md",
-                "mode": "preview",
+                "file": "BI-TPS/1. Světlo, optická vlákna.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "818f424e935540ad",
@@ -97,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
+                "file": "BI-TPS/1. Světlo, optická vlákna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
+                "file": "BI-TPS/1. Světlo, optická vlákna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-AAG/Přednášky/1. Základní pojmy.md"
+                "file": "BI-TPS/1. Světlo, optická vlákna.md"
               }
             }
           }
@@ -159,9 +164,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8e27c52459b40b8",
+  "active": "da2f384c3ae962fc",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231211181333.png",
+    "Attachments/Pasted image 20231211173508.png",
+    "Attachments/Pasted image 20231211173415.png",
+    "Attachments/Pasted image 20231211173235.png",
+    "Attachments/Pasted image 20231211173019.png",
+    "Attachments/Pasted image 20231211173003.png",
+    "Attachments/Pasted image 20231211172940.png",
+    "Attachments/Pasted image 20231211172925.png",
+    "Attachments/Pasted image 20231211172440.png",
+    "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
+    "Attachments/Pasted image 20231211171826.png",
+    "BI-TPS/1. Světlo, optická vlákna.md",
+    "Attachments/Pasted image 20231211171545.png",
+    "BI-AG1/Struktury/AVL Strom.md",
+    "BI-AG1/Struktury/BVS Strom.md",
+    "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
+    "BI-AG1/Struktury/Binomiální halda.md",
+    "BI-AG1/Struktury/Binární halda.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na RG metodou postupné konstrukce.md",
+    "BI-AAG/Přednášky/1. Základní pojmy.md",
+    "BI-TPS",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA nebo RG metodou derivací.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA metodou sousedů.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA metodou postupné konstrukce.md",
@@ -171,41 +196,22 @@
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou regulárních rovnic - příchozí přechody.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou regulárních rovnic - odchozí přechody.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou eliminace stavů.md",
-    "Attachments/Pasted image 20231207140641.png",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RG.md",
-    "Attachments/Pasted image 20231207140535.png",
     "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
     "BI-AAG/Přednášky/4. Regulární výrazy.md",
-    "BI-AAG/Přednášky/1. Základní pojmy.md",
-    "Attachments/Pasted image 20231207131624.png",
-    "Attachments/Pasted image 20231207131234.png",
-    "Attachments/Pasted image 20231207125507.png",
-    "Attachments/Pasted image 20231207124656.png",
-    "Attachments/Pasted image 20231207124203.png",
-    "Attachments/Pasted image 20231207123818.png",
-    "Attachments/Pasted image 20231207123236.png",
-    "Attachments/Pasted image 20231207122750.png",
     "RV na KA.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA pomocí epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA bez použití epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí rekonfigurace počátečních stavů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí paralelní činnosti.md",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí epsilon přechodů.md",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Průnik KA pomocí paralelní činnosti.md",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Iterace KA pomocí epsilon-přechodů.md",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Iterace KA bez použití epsilon-přechodů.md",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Doplněk KA.md",
-    "BI-AAG/Algoritmy/Operace nad konečnými automaty/Minimalizace DKA.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty",
-    "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
     "BI-APS/Semestrální práce",
     "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky",
     "BI-AG1/Důkazy",
     "BI-AG1/Struktury",
-    "BI-AAG/Algoritmy",
-    "BI-AAG/Přednášky"
+    "BI-AAG/Algoritmy"
   ]
 }
