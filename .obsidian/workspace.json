@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-TPS/1. Světlo, optická vlákna.md",
+                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-TPS/1. Světlo, optická vlákna.md",
+                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-TPS/1. Světlo, optická vlákna.md",
+                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-TPS/1. Světlo, optická vlákna.md"
+                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md"
               }
             }
           }
@@ -166,19 +166,20 @@
   },
   "active": "da2f384c3ae962fc",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231211203804.png",
+    "Attachments/Pasted image 20231211203611.png",
+    "Attachments/Pasted image 20231211203408.png",
+    "Attachments/Pasted image 20231211191852.png",
+    "Attachments/Pasted image 20231211191754.png",
+    "Attachments/Pasted image 20231211191633.png",
+    "Attachments/Pasted image 20231211183957.png",
+    "Attachments/Pasted image 20231211183930.png",
+    "Attachments/Pasted image 20231211183702.png",
+    "BI-TPS/1. Světlo, optická vlákna.md",
+    "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
     "Attachments/Pasted image 20231211181333.png",
     "Attachments/Pasted image 20231211173508.png",
-    "Attachments/Pasted image 20231211173415.png",
-    "Attachments/Pasted image 20231211173235.png",
-    "Attachments/Pasted image 20231211173019.png",
-    "Attachments/Pasted image 20231211173003.png",
-    "Attachments/Pasted image 20231211172940.png",
-    "Attachments/Pasted image 20231211172925.png",
-    "Attachments/Pasted image 20231211172440.png",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
-    "Attachments/Pasted image 20231211171826.png",
-    "BI-TPS/1. Světlo, optická vlákna.md",
-    "Attachments/Pasted image 20231211171545.png",
     "BI-AG1/Struktury/AVL Strom.md",
     "BI-AG1/Struktury/BVS Strom.md",
     "BI-AG1/Přednášky/6. Binární vyhledávací stromy a vyvažování.md",
@@ -204,7 +205,6 @@
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA pomocí epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA bez použití epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí rekonfigurace počátečních stavů.md",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí paralelní činnosti.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
