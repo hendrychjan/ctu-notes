@@ -8,34 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8e27c52459b40b8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
-                "viewState": {
-                  "x": 1147.8219217700025,
-                  "y": 1005.1093086937792,
-                  "zoom": 0.39976072090210235
-                }
-              }
-            }
-          },
-          {
             "id": "da2f384c3ae962fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
+                "file": "BI-TPS/3. Páteřní sítě.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
+                "file": "BI-TPS/3. Páteřní sítě.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
+                "file": "BI-TPS/3. Páteřní sítě.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-TPS/2. Optické sítě, optická modulace a multiplex.md"
+                "file": "BI-TPS/3. Páteřní sítě.md"
               }
             }
           }
@@ -166,6 +150,9 @@
   },
   "active": "da2f384c3ae962fc",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231212075429.png",
+    "BI-TPS/2. Optické sítě, modulace, vlnový multiplex.md",
+    "BI-TPS/3. Páteřní sítě.md",
     "Attachments/Pasted image 20231211203804.png",
     "Attachments/Pasted image 20231211203611.png",
     "Attachments/Pasted image 20231211203408.png",
@@ -176,9 +163,7 @@
     "Attachments/Pasted image 20231211183930.png",
     "Attachments/Pasted image 20231211183702.png",
     "BI-TPS/1. Světlo, optická vlákna.md",
-    "BI-TPS/2. Optické sítě, optická modulace a multiplex.md",
     "Attachments/Pasted image 20231211181333.png",
-    "Attachments/Pasted image 20231211173508.png",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
     "BI-AG1/Struktury/AVL Strom.md",
     "BI-AG1/Struktury/BVS Strom.md",
@@ -204,7 +189,6 @@
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA pomocí epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA bez použití epsilon-přechodů.md",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Sjednocení KA pomocí rekonfigurace počátečních stavů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
