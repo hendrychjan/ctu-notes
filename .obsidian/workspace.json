@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-TPS/4. Optické přístupové sítě.md",
+                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "818f424e935540ad",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-TPS/4. Optické přístupové sítě.md",
+                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-TPS/4. Optické přístupové sítě.md",
+                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-TPS/4. Optické přístupové sítě.md"
+                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md"
               }
             }
           }
@@ -150,21 +149,21 @@
   },
   "active": "da2f384c3ae962fc",
   "lastOpenFiles": [
+    "BI-TPS/1. Světlo, optická vlákna.md",
+    "BI-TPS/5. Přenos elektromagnetického signálu.md",
+    "Attachments/Pasted image 20231212082807.png",
+    "Attachments/Pasted image 20231212082523.png",
+    "Attachments/Pasted image 20231212081722.png",
+    "Attachments/Pasted image 20231212080948.png",
+    "BI-TPS/4. Optické přístupové sítě.md",
     "Attachments/Pasted image 20231212080702.png",
     "Attachments/Pasted image 20231212080431.png",
     "Attachments/Pasted image 20231212080222.png",
     "Attachments/Pasted image 20231212080003.png",
     "Attachments/Pasted image 20231212075715.png",
     "BI-TPS/3. Páteřní sítě.md",
-    "BI-TPS/4. Optické přístupové sítě.md",
     "Attachments/Pasted image 20231212075429.png",
     "BI-TPS/2. Optické sítě, modulace, vlnový multiplex.md",
-    "Attachments/Pasted image 20231211203804.png",
-    "Attachments/Pasted image 20231211203611.png",
-    "Attachments/Pasted image 20231211203408.png",
-    "Attachments/Pasted image 20231211191852.png",
-    "Attachments/Pasted image 20231211191754.png",
-    "BI-TPS/1. Světlo, optická vlákna.md",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru/poznámky.canvas",
     "BI-AG1/Struktury/AVL Strom.md",
     "BI-AG1/Struktury/BVS Strom.md",
@@ -188,7 +187,6 @@
     "BI-AAG/Přednášky/4. Regulární výrazy.md",
     "RV na KA.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ",
-    "BI-AAG/Algoritmy/Jazykové operace nad KA/Součin KA pomocí epsilon-přechodů.md",
     "BI-AAG/Algoritmy/Jazykové operace nad KA",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
