@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md",
-                "mode": "source",
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "82db4baaae057d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "818f424e935540ad",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md",
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md",
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI-TPS/5. Přenos elektromagnetického signálu.md"
+                "file": "BI-AAG/Přednášky/1. Základní pojmy.md"
               }
             }
           }
@@ -149,8 +162,20 @@
   },
   "active": "da2f384c3ae962fc",
   "lastOpenFiles": [
-    "BI-TPS/1. Světlo, optická vlákna.md",
+    "obsidian/Příprava na AAG.md",
+    "obsidian/zkoušky/Příprava na AAG.md",
+    "obsidian/zkoušky/Untitled.md",
+    "obsidian/zkoušky",
+    "obsidian/ČVUT",
+    "obsidian/Untitled",
+    "obsidian/Welcome.md",
+    "obsidian",
+    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro součin bezkontextových jazyků.md",
+    "BI-AAG/Přednášky/1. Základní pojmy.md",
+    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro iteraci bezkontextového jazyka.md",
+    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky/Gramatika pro sjednocení bezkontextových jazyků.md",
     "BI-TPS/5. Přenos elektromagnetického signálu.md",
+    "BI-TPS/1. Světlo, optická vlákna.md",
     "Attachments/Pasted image 20231212082807.png",
     "Attachments/Pasted image 20231212082523.png",
     "Attachments/Pasted image 20231212081722.png",
@@ -171,7 +196,6 @@
     "BI-AG1/Struktury/Binomiální halda.md",
     "BI-AG1/Struktury/Binární halda.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na RG metodou postupné konstrukce.md",
-    "BI-AAG/Přednášky/1. Základní pojmy.md",
     "BI-TPS",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA nebo RG metodou derivací.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RV na KA metodou sousedů.md",
@@ -180,20 +204,10 @@
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RG na RV metodou eliminace neterminálních symbolů.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod RG na KA.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou regulárních rovnic - příchozí přechody.md",
-    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou regulárních rovnic - odchozí přechody.md",
-    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RV metodou eliminace stavů.md",
-    "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ/Převod KA na RG.md",
-    "BI-AAG/Přednášky/3. Operace s konečnými automaty.md",
-    "BI-AAG/Přednášky/4. Regulární výrazy.md",
-    "RV na KA.md",
     "BI-AAG/Algoritmy/Přechody mezi formálnímy systémy RJ",
     "BI-AAG/Algoritmy/Jazykové operace nad KA",
     "BI-AAG/Algoritmy/Operace nad konečnými automaty",
     "BI-APS/Semestrální práce/Návrh jednocyklového RISC procesoru",
-    "BI-APS/Semestrální práce",
-    "BI-AAG/Algoritmy/Operace nad bezkontextovými jazyky",
-    "BI-AG1/Důkazy",
-    "BI-AG1/Struktury",
-    "BI-AAG/Algoritmy"
+    "BI-APS/Semestrální práce"
   ]
 }
