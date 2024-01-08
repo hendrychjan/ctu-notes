@@ -5,6 +5,10 @@ tags:
   - Anki
 ---
 
+### Vlastnosti
+> **Vstup:** dva NKA bez epsilon přechodů
+> **Výstup:** NKA, který generuje $L(M_1.M_2)$
+
 ### Definice
 ![](Attachments/Pasted%20image%2020231206233439.png)
 

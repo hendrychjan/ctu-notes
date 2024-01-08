@@ -5,6 +5,10 @@ tags:
   - Anki
 ---
 
+### Vlastnosti
+> **Vstup:** NKA s více počátečními stavy
+> **Výstup** NKA s jedním počátečním stavem
+
 ### Definice
 ![](Attachments/Pasted%20image%2020231206212022.png)
 

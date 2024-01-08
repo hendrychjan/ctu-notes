@@ -5,6 +5,10 @@ tags:
   - Anki
 ---
 
+### Vlastnosti
+> **Vstup:** DKA
+> **Výstup:** úplně určený DKA
+
 ### Definice
 ![](Attachments/Pasted%20image%2020231206204447.png)
 

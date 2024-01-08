@@ -5,6 +5,10 @@ tags:
   - Anki
 ---
 
+### Vlastnosti
+> **Vstup:** dva NKA
+> **Výstup:** NKA, který generuje $L(M_1 \cup M_2)$
+
 ### Definice
 ![](Attachments/Pasted%20image%2020231206231325.png)
 
